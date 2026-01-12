@@ -69,7 +69,7 @@
 <br>
 
 ## 🏗 서비스 구조
-<video src ="https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6" controls="controls" style="max-width: 100%; display: block; margin: 0 auto;">
+https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
 
 
 ## 🔑 핵심 기능
