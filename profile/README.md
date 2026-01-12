@@ -123,7 +123,7 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
             <br/>
             <h3>김도경</h3>
             <p><b>기획, 프론트엔드</b></p>
-            <p>AI 프론트엔드</p>
+            <p>프론트엔드</p>
         </td>
         <td align="center">
             <a href="https://github.com/cykimbb">
