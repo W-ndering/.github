@@ -69,15 +69,8 @@
 <br>
 
 ## 🏗 서비스 구조
+<img src ="https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6">
 
-```mermaid
-graph TD
-    A[사용자] -->|접속| B(스토리 선택 UI)
-    B -->|플레이| C[선택 데이터 수집]
-    C -->|전송| D{OCEAN 성격 모델 분석 API}
-    D -->|분석 완료| E[성격 프로필 생성]
-    E -->|데이터 전달| F[콘텐츠 추천 엔진]
-    F -->|매칭| G[맞춤형 결과 제공]
 
 ## 🔑 핵심 기능
 
