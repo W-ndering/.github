@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
         </td>
         <td align="center">
             <a href="https://github.com/FalllingStar">
-                <img src="https://avatars.githubusercontent.com/FalllingStar" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
+                <img src="https://avatars.githubusercontent.com/FalllingStar" width="150" alt="FalllingStar Profile" style="border-radius: 50%;" />
             </a>
             <br/>
             <h3>도유성</h3>
@@ -118,7 +118,7 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
         </td>
         <td align="center">
             <a href="https://github.com/benscookie">
-                <img src="https://avatars.githubusercontent.com/benscookie" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
+                <img src="https://avatars.githubusercontent.com/benscookie" width="150" alt="benscookie Profile" style="border-radius: 50%;" />
             </a>
             <br/>
             <h3>김도경</h3>
@@ -127,14 +127,13 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
         </td>
         <td align="center">
             <a href="https://github.com/cykimbb">
-                <img src="https://avatars.githubusercontent.com/cykimbb" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
+                <img src="https://avatars.githubusercontent.com/cykimbb" width="150" alt="cykimbb Profile" style="border-radius: 50%;" />
             </a>
             <br/>
             <h3>김채윤</h3>
             <p><b>기획, 프론트엔드</b></p>
             <p>프론트엔드</p>
         </td>
-        
     </tr>
     <tr>
         <td align="center">
@@ -148,10 +147,11 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
             <p>게임 디자인, 로고 제작, 서비스 시연 영상 제작</p>
         </td>
         <td align="center">
-            <h3>전지연</h3>
+            <h3>김주영</h3>
             <p><b>기획, 디자인</b></p>
             <p>게임 디자인, 캐릭터 디자인, 서비스 SNS 관리</p>
         </td>
+        <td></td>
     </tr>
 </table>
 
