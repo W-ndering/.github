@@ -86,12 +86,11 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
 
 ## 🛠 기술 스택
 
-| 분류 | 기술 |
-| :--- | :--- |
-| **Frontend** | |
-| **Backend** | |
-| **Infra** | |
-| **Design / Plan** | |
+- 프론트엔드    ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+
+- 백엔드    ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+- 기획/디자인    ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
@@ -105,10 +104,63 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
             </a>
             <br/>
             <h3>이경훈</h3>
-            <p><b>Backend · PM · Planning</b></p>
-            <p>AI 성격 모델 설계 · 추천 로직 개발<br/>서버 아키텍처 및 전체 서비스 구조 설계</p>
+            <p><b>팀장, 기획, 백엔드</b></p>
+            <p>AI 성격 모델 설계 · 추천 로직 개발<br/>서버 아키텍처 및 전체 서비스 구조 설계 · 배포 구축</p>
         </td>
-        </tr>
+        <td align="center">
+            <a href="https://github.com/FalllingStar">
+                <img src="https://avatars.githubusercontent.com/FalllingStar" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
+            </a>
+            <br/>
+            <h3>도유성</h3>
+            <p><b>기획, 프론트엔드</b></p>
+            <p>프론트엔드</p>
+        </td>
+        <td align="center">
+            <a href="https://github.com/benscookie">
+                <img src="https://avatars.githubusercontent.com/benscookie" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
+            </a>
+            <br/>
+            <h3>김도경</h3>
+            <p><b>기획, 프론트엔드</b></p>
+            <p>AI 프론트엔드</p>
+        </td>
+        <td align="center">
+            <a href="https://github.com/cykimbb">
+                <img src="https://avatars.githubusercontent.com/cykimbb" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
+            </a>
+            <br/>
+            <h3>김채윤</h3>
+            <p><b>기획, 프론트엔드</b></p>
+            <p>프론트엔드</p>
+        </td>
+        <td align="center">
+            <a href="https://github.com/cykimbb">
+                <img src="https://avatars.githubusercontent.com/cykimbb" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
+            </a>
+            <br/>
+            <h3>김채윤</h3>
+            <p><b>기획, 프론트엔드</b></p>
+            <p>프론트엔드</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3>전지연</h3>
+            <p><b>기획, 디자인</b></p>
+            <p>디자인 총괄, 서비스 소개 자료 제작</p>
+        </td>
+        <td align="center">
+            <h3>김영원</h3>
+            <p><b>기획, 디자인</b></p>
+            <p>게임 디자인, 로고 제작, 서비스 시연 영상 제작</p>
+        </td>
+        <td align="center">
+            <h3>전지연</h3>
+            <p><b>기획, 디자인</b></p>
+            <p>게임 디자인, 캐릭터 디자인, 서비스 SNS 관리</p>
+        </td>
+    </tr>
 </table>
 
 <br>
