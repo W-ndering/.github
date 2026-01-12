@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="900" alt="wandering-cover" src="https://github.com/user-attachments/assets/your-image-here" />
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/7bdc940e-b61f-45da-a4f9-81bc53c25fd9" />
 
 # W@ndering
 **성격 기반 인터랙티브 스토리 & 추천 서비스**
