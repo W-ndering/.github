@@ -134,15 +134,7 @@ https://github.com/user-attachments/assets/c984dda7-e12f-4052-b725-91a85140d8c6
             <p><b>기획, 프론트엔드</b></p>
             <p>프론트엔드</p>
         </td>
-        <td align="center">
-            <a href="https://github.com/cykimbb">
-                <img src="https://avatars.githubusercontent.com/cykimbb" width="150" alt="KyungHoon03 Profile" style="border-radius: 50%;" />
-            </a>
-            <br/>
-            <h3>김채윤</h3>
-            <p><b>기획, 프론트엔드</b></p>
-            <p>프론트엔드</p>
-        </td>
+        
     </tr>
     <tr>
         <td align="center">
